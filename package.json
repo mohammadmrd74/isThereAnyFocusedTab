@@ -1,0 +1,11 @@
+{
+  "name": "is_there_any_focused_tab",
+  "version": "1.0.0",
+  "description": "A function to tell if there is any focused tab of your website is peresent.",
+  "main": "isThereAnyActiveTab.js",
+  "scripts": {
+    "test": "isThereAnyFocusedTab()"
+  },
+  "author": "Mohammad Hasan Moradi",
+  "license": "ISC"
+}
